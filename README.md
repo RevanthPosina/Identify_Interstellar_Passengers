@@ -6,4 +6,4 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 
 To help rescue crews and retrieve the lost passengers, we are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 
-This project is from Kaggle Competetions
+This project is from Kaggle competitions
